@@ -1,16 +1,6 @@
 # ion-scanner
 A barcode scanner built with the Ionic Framework
 
-(this project was built for a blog post that appears on [adamweeks.com](adamweeks.com), below is the contents of the blog post)
-
-The Blog Post
-----
-
-Just when I thought I was out, they pulled me back in! After a year off of iOS programming, who knew that all the Angular work would bring me back to mobile.
-
-After hearing about [Ionic Framework](http://ionicframework.com/) on [ng-air](http://angularair.podbean.com/e/05-ngair-ionic-framework/) I decided to check it out. Ionic is a mobile framework based on [Cordova](). It allows us to write multi-platform mobile apps with a native feel by using angular and custom ionic directives. You can read plenty on their site for more information, so let's get into it!
-
-
 The Project
 ------
 Of course, I have to make some sort of sample project when I'm learning a new platform, so I decided to write a basic barcode scanner app. 
@@ -109,9 +99,5 @@ We won't go through the ionic.io setup process here because the [documentation](
 Finally
 -----
 Our first steps into native mobile development with Ionic are complete. I'm looking forward to utilizing it some more!
-
-You can download my barcode scanner app here: [https://github.com/adamweeks/ion-scanner](https://github.com/adamweeks/ion-scanner)
-
-If you have any questions, feel free to contact me on twitter [@AdamWeeks](https://twitter.com/adamweeks). I also hang out with a great group on slack called [Angular Buddies](http://angularbuddies.com), so join us there!
  
 "# ionic-barcodescaner-sample" 
